@@ -1,23 +1,21 @@
 {
-    "name": "deerforcediscordbot",
-    "version": "0.0.1",
-    "description": "A simple discord bot",
-    "main": "main.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": "ArtemisDK",
-    "license": "ISC",
-    "dependencies": {
-        "better": "^0.1.0",
-        "cpu-stat": "^2.0.1",
-        "discord.js": "^12.5.3",
-        "dotenv": "^10.0.0",
-        "esm": "^3.2.25",
-        "express": "^5.0.0-alpha.8",
-        "moment": "^2.29.1",
-        "os": "^0.1.1",
-        "sourcebin_js": "^0.0.3-ignore",
-        "tmi.js": "^1.8.3"
-    }
+  "name": "ticket-bot",
+  "version": "1.0.0",
+  "description": "A simple ticket bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhon12345",
+  "license": "ISC",
+  "dependencies": {
+    "better": "^0.1.0",
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.6.0",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "os": "^0.1.2",
+    "sourcebin_js": "0.0.3-ignore"
+  }
 }
